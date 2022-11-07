@@ -1,0 +1,42 @@
+.calculator{
+    margin-top: 10px;
+
+    width: 400px;
+    height: 505px;
+    background-color: #525e5e;
+    float: left;
+    margin-left: 500px;
+}
+
+#screen{
+    
+    pointer-events: none;
+    margin-top: 27px;
+    margin-left: 35px;
+    width: 80%;
+    height: 35px;
+    pointer-events: none;
+
+}
+.btn{
+    
+    background-color: antiquewhite;
+    margin-left: 39px;
+    width: 60px;
+    height: 45px;
+    margin-top: 30px;
+    border-color: antiquewhite;
+
+
+}
+.btn1{
+    margin-left: 282px;
+
+}
+.output{
+    height: 464px;
+
+    width: 402px;
+
+    background-color: #525e5e;
+}
